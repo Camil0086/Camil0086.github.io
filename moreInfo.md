@@ -1,9 +1,3 @@
----
-layout: default
-title: Additional content
-nav_order: 3
----
-
 Additional content
 ==================
 
