@@ -2,6 +2,7 @@
 layout: default
 title: Additional content
 nav_order: 4
+permalink: /
 ---
 
 Additional content

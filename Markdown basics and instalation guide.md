@@ -2,6 +2,7 @@
 layout: default
 title: Markdown basics and installation guide
 nav_order: 2
+permalink: /
 ---
 
 Markdown basics and installation guide

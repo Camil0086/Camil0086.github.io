@@ -2,6 +2,7 @@
 layout: default
 title: GitHub and GitHub Desktop Guide
 nav_order: 3
+permalink: /
 ---
 
 GitHub and GitHub Desktop Guide
