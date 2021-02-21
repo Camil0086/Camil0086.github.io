@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Just for testing)
+title: Markdown basics and installation guide
 nav_order: 2
 ---
 

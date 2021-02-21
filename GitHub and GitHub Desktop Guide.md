@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Just for testings)
+title: GitHub and GitHub Desktop Guide
 nav_order: 3
 ---
 
