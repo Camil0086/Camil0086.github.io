@@ -1,3 +1,9 @@
+---
+layout: default
+title: (Just for testing)
+nav_order: 2
+---
+
 Markdown basics and installation guide
 =====================================
 

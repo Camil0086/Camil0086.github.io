@@ -1,3 +1,9 @@
+---
+layout: default
+title: (Just for testings)
+nav_order: 3
+---
+
 GitHub and GitHub Desktop Guide
 ===============================
 
