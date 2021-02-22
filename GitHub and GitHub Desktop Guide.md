@@ -37,7 +37,7 @@ After GitHub Desktop installation, open the client and follow the below steps:
 You have created your first repository. Choose **Repository => Show in Explorer** in the top menu to view your repository. You can also find it on your hard drive by the path you have chosen. 
 
 ## How to Publish your repository to GitHub?
-After creating a repository choose **Publish repository** in GitHub Desktop main page and follow the below steps:
+After creating a repository click **Publish repository** in GitHub Desktop main page and follow the below steps:
 1. In the pop-up window mark **keep this code private** if you wish to publish your repository only to those GitHub users you invite.
 2. Leave **Organization** as it is.
 3. Click **Publish repository**.
@@ -64,6 +64,28 @@ Choose **History** on the left side bar to view all changes download to your loc
 
 ## How to invite a collaborator to your repository
 To grant access to your repository please choose **Settings => Manage Access => Invite a collaborator.** Type username, full name or email and add a user to this repository. When you invite someone, you always grant access to the repository you are currently working on. The user will receive an email to confirm the invitation. 
+
+## How to create a public repository on GitHub Pages
+Please go to [GitHub homepage](https://github.com) and click your account icon in the top right corner. Choose **Your repositories** and follow the below steps:
+1. Click the new repository icon ![New Repository icon](./images/newIco.png) to create new repository.
+2. Type the name of your repository exactly like *<span>yourAccountName.github.io</span>*. For Example, if your account name is *JaneDoe86*, your repository name will look like *<span>JaneDoe86.github.io</span>*.
+3. Fill the **Description** (optional). 
+4. Change the type of your repository to **Public**.
+5. For the purpose of this exercise please leave **Add a README file, Add .gitignore, and Choose a license** unmarked.
+6. Click **Create repository**.
+
+After creating a repository please click Set up in Desktop icon ![Set up in Desktop icon](./images/setupIco.png) to work on it locally. GitHub Desktop will open with pop-up window where you can choose a local path of your repository. Please leave the URL address as it is and click **Clone**.
+
+## How to publish your documentation on GitHub Pages repository
+When your public repository is ready please open GitHub Desktop and follow the below steps:
+1. Click **Open in Visual Studio Code** on GitHub Desktop main window.
+2. In VSCode plese choose **File => New File**.
+3. You can save the file with any extension necessary. For the purpose of this exercise please save it as *index.html*.
+4. Commit all changes and Push them to GitHub.
+5. Go to your repository on GitHub and click **Environments** in the bottom of the right side bar.
+6. In the **Environments** section you can find a confirmation that your file was deployed to GitHub Pages.
+
+You have published your repository to GitHub Pages. Click **View deployment** or type the name of your repository in the browser search bar to open your website. Please remember that instead of creating a new file you can always paste your previously prepared documents directly to a local path of your repository and push them to GitHub Pages.
 
 ## Troubleshooting
 
