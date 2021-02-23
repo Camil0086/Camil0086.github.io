@@ -1,9 +1,25 @@
 ---
 layout: default
-title: Markdown syntax
-parent: Markdown
+title: Markdown basics and installation guide
 nav_order: 2
 ---
+
+Markdown basics and installation guide
+=====================================
+
+## What is Markdown?  
+According to Wikipedia:  
+>Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+
+To write in Markdown any editor is enough, but we recommend to use Visual Studio Code. 
+
+## VSCode Installation guide and first run 
+Please follow the [VSCode download link](https://code.visualstudio.com/) and choose the platform which suits you. Click **download** and follow the instruction.  
+As a first step: 
+1. Click **File > New File** in the top left corner
+2. Save the file by **File > Save as...** and choose **Markdown** as a filetype in the pop-up window
+3. Click the **Open preview to the side** icon ![preview icon](./images/previewIco.png) in the top right corner or type  
+   Ctrl + K V to open a preview window
 
 ## Markdown basic syntax
 Below you'll find basic commands and rules of Markdown language. Click the attached links for more information:
@@ -103,6 +119,10 @@ z=x+y;
 
 * Table of contents example [Additional content](moreInfo.md)
 
+- [Markdown basics and installation guide](#markdown-basics-and-installation-guide)
+  - [What is Markdown?](#what-is-markdown)
+  - [VSCode Installation guide and first run](#vscode-installation-guide-and-first-run)
+  - [Markdown basic syntax](#markdown-basic-syntax)
 - [To the Moon.](#to-the-moon)
 - [Book 1](#book-1)
   - [Chapter 1.1](#chapter-11)
