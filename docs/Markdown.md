@@ -45,9 +45,9 @@ You never block someone in the middle of *kamehameha*.
 
 * Image example [Additional content](moreInfo.md)
 
-![Text to be displayed in case the image is not found](./images/ToTheMoon.jpg)
+![Text to be displayed in case the image is not found](./images/ToTheMoon.jpg "Hover text")
 
-![Text to be displayed in case the image is not found](https://images2.imgbox.com/c1/b2/72KNdkFc_o.jpg)
+![Text to be displayed in case the image is not found](https://images2.imgbox.com/c1/b2/72KNdkFc_o.jpg "Hover text")
 
 * Headers example [Additional content](moreInfo.md)
 

@@ -51,21 +51,21 @@ You can create or upload a new file to your repository directly from your browse
 
 ## How to Pull up-to-date file from GitHub
 To download any changes of GitHub repository made by your coworkers or any other users who has access to it, choose in GitHub Desktop **Repository => Pull** on the top menu or click **Fetch origin** under the top menu and then click **Pull origin** on main window. It is good practice to begin your work with **Pull/Fetch origin**.  
-Choose **History** on the left side bar to view all changes download to your local repository. In the middle section, all files added are marked by green plus icon ![Green plus icon](./images/plusIco.png). All files changed are marked by yellow dot icon ![Yellow dot icon](./images/changesIco.png). In the right section, a color indicates changes. Green if something was added or red if removed.
+Choose **History** on the left side bar to view all changes download to your local repository. In the middle section, all files added are marked by green plus icon ![Green plus icon](../images/plusIco.png). All files changed are marked by yellow dot icon ![Yellow dot icon](../images/changesIco.png). In the right section, a color indicates changes. Green if something was added or red if removed.
 
 ## How to invite a collaborator to your repository
 To grant access to your repository please choose **Settings => Manage Access => Invite a collaborator.** Type username, full name or email and add a user to this repository. When you invite someone, you always grant access to the repository you are currently working on. The user will receive an email to confirm the invitation. 
 
 ## How to create a public repository on GitHub Pages
 Please go to [GitHub homepage](https://github.com) and click your account icon in the top right corner. Choose **Your repositories** and follow the below steps:
-1. Click the new repository icon ![New Repository icon](./images/newIco.png) to create new repository.
+1. Click the new repository icon ![New Repository icon](../images/newIco.png) to create new repository.
 2. Type the name of your repository exactly like *<span>yourAccountName.github.io</span>*. For Example, if your account name is *JaneDoe86*, your repository name will look like *<span>JaneDoe86.github.io</span>*.
 3. Fill the **Description** (optional). 
 4. Change the type of your repository to **Public**.
 5. For the purpose of this exercise please leave **Add a README file, Add .gitignore, and Choose a license** unmarked.
 6. Click **Create repository**.
 
-After creating a repository please click Set up in Desktop icon ![Set up in Desktop icon](./images/setupIco.png) to work on it locally. GitHub Desktop will open with pop-up window where you can choose a local path of your repository. Please leave the URL address as it is and click **Clone**.
+After creating a repository please click Set up in Desktop icon ![Set up in Desktop icon](../images/setupIco.png) to work on it locally. GitHub Desktop will open with pop-up window where you can choose a local path of your repository. Please leave the URL address as it is and click **Clone**.
 
 ## How to publish your documentation on GitHub Pages repository
 When your public repository is ready please open GitHub Desktop and follow the below steps:

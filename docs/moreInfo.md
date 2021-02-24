@@ -44,7 +44,7 @@ Put any normal text into a square brackets "[...]" to change it into a hyperlink
 
 ## Image
 
-To put an image into a text use exclamation mark "!" and then as a first one square and as a second one round brackets. In the former put any text to be displayed in case the image is not found. In the latter put the address of an image. There are two ways of pasting the image address:
+To put an image into a text use exclamation mark "!" and then as a first one square and as a second one round brackets. In the former put any text to be displayed in case the image is not found. In the latter put the address of an image and as an option, a hoover text in the quotation marks. There are two ways of pasting the image address:
 
 * if the image is in the same directory as the markdown file, use the following route (./folderName). Remember that the image can be put in any numbers of subfolders, like: (./subfolder1/subfoler2/folderName)
 * you can paste in round brackets an URL address with the image host.
