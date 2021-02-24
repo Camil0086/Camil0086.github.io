@@ -22,7 +22,7 @@ Change one thing, fulfill one wish.
 * Title example [Additional content](moreInfo.md)  
 
 To the Moon.  
-=============
+============
 
 * New line and paragraph examples [Additional content](moreInfo.md)  
   
@@ -111,9 +111,8 @@ z=x+y;
 
 * Table of contents example [Additional content](moreInfo.md)
 
-- [Markdown basics and installation guide](#markdown-basics-and-installation-guide)
+- [Markdown basics](#markdown-basics)
   - [What is Markdown?](#what-is-markdown)
-  - [VSCode Installation guide and first run](#vscode-installation-guide-and-first-run)
   - [Markdown basic syntax](#markdown-basic-syntax)
 - [To the Moon.](#to-the-moon)
 - [Book 1](#book-1)
