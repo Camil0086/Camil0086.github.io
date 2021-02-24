@@ -8,9 +8,9 @@ permalink: /
 
 # Introduction
 
-On this site you will find a simple manual how to install and configure Visual Studio Code and GitHub Desktop.
+On this site you'll find a simple manual how to install and configure Visual Studio Code and GitHub Desktop.
 
-If you miss one or more classes do not worry. Here you will find all necessary information to catch up. On the left side bar you will find online help from which you can learn:
+If you miss one or more classes don't worry. Here you'll find all necessary information to catch up. On the left side bar you'll find online help from which you can learn:
 * basic syntax of Markdown
 * how to publish your first repository to GitHub and introduce changes to it
 * how to download up-to-date files from GitHub
@@ -18,7 +18,7 @@ If you miss one or more classes do not worry. Here you will find all necessary i
 
 You can also count on few tips and hints for VSCode and solution of typicall troubles during GitHub configuration.
 
-In case of any more information necessary below you will find documentation for:
+In case of any more information necessary below you'll find documentation for:
 * [Visual Studio Code](https://code.visualstudio.com/docs)
 * [Markdown](https://www.markdownguide.org/basic-syntax/)
 * [GitHub Desktop](https://docs.github.com/en/desktop)
