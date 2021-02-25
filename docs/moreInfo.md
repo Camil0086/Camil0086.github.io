@@ -67,7 +67,7 @@ To turn a piece of text into a quote, put a **greater than** sign ">" in front o
 
 ## Bullet list
 
-Put an **asterisk** sign "*" in front of a text to create a bullet list. To make a subpoint put two *spaces* before the asterisk. To make another level subpoint put four *spaces* in front of the asterisk.
+Put an **asterisk** sign "`*`" in front of a text to create a bullet list. To make a subpoint put two *spaces* before the asterisk. To make another level subpoint put four *spaces* in front of the asterisk.
 
 ## Numbered list
 
