@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-Definition and difference between Git, GitHub and GitHub Desktop
+Definition and difference between Git, GitHub, and GitHub Desktop
 ================================================================
 
 According to [GitHub documentation](https://docs.github.com):

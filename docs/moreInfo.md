@@ -25,28 +25,28 @@ Additional content
   - [Table of contents](#table-of-contents)
 
 ## Title 
-A title can be created by underlining a normal text with an **equal** sign "=". In case of one or more equal signs the outcome is the same. It is good practice to make as much equal signs as the length of the text. Thanks to "#" before a text you can achieve the same effect, althoug it is use for different purposes. [More information]().
+A title can be created by underlining a normal text with an **equal** sign "=". In case of one or more equal signs, the outcome is the same. It is good practice to make as many equal signs as the length of the text. Thanks to "#" before a text you can achieve the same effect, although it is used for different purposes. [More information]().
 
 ## New line and paragraph
-While writing a text, new lines will appear authomatically. To create new line put two *spaces* and click *Enter*. To create new paragraph make a **blank line**.
+While writing a text, new lines will appear automatically. To create a new line put two *spaces* and click *Enter*. To create a new paragraph make a **blank line**.
 
 ## Bold text
 
-To mark the text as a bold put two **asterisk** sign "**" in front and at the end of the text you want to bulk.
+To mark a text as bold, put two **asterisk** signs "**" in front and at the end of the text you want to bulk.
 
 ## Italic text
 
-To mark the text as an italic put one **asterisk** sign "*" in front and at the end of the text you want to bend.
+To mark a text as italic, put one **asterisk** sign "*" in front and at the end of the text you want to bend.
 
 ## Link to a website
 
-Put any normal text into a square brackets "[...]" to change it into a hyperlink. Put the website address in round brackets "(...)" after the hyperlink.
+Put any normal text into square brackets "[...]" to change it into a hyperlink. Put the website address in round brackets "(...)" after the hyperlink.
 
 ## Image
 
-To put an image into a text use exclamation mark "!" and then as a first one square and as a second one round brackets. In the former put any text to be displayed in case the image is not found. In the latter put the address of an image and as an option, a hoover text in the quotation marks. There are two ways of pasting the image address:
+To put an image into a text use the exclamation mark "!" and then as a first one square and as a second one round brackets. In the former, put any text to be displayed in case the image is not found. In the latter put the address of an image and as an option, a hover text in the quotation marks. There are two ways of pasting the image address:
 
-* if the image is in the same directory as the markdown file, use the following route (./folderName). Remember that the image can be put in any numbers of subfolders, like: (./subfolder1/subfoler2/folderName)
+* if the image is in the same directory as the markdown file, use the following route (./folderName). Remember that the image can be put in any numbers of subfolders, like (./subfolder1/subfoler2/folderName)
 * you can paste in round brackets an URL address with the image host.
 
 ## Headers
@@ -55,7 +55,7 @@ There are 6 levels of headers. Put a **hash** sign "#" before a text to get a le
 
 ## Inline code
 
-Put an **grave accent** sign " ` " before and after a text to mark it as a programming language or any other code being a part of the text.
+Put a **grave accent** sign " ` " before and after a text to mark it as a programming language or any other code being a part of the text.
 
 ## Block of code
 
@@ -76,14 +76,14 @@ To make a numbered list begin with "1." in front of a text. To make another put 
 ## Table
 
 To create a table follow the below steps:
-1. divide the text in particular title cells with **vertical bars** " | ". Remember tu put such in front of first cell and at the end of the last cell.
-2. in next row underline each cel with a **minus** sign "-" and, as in case of title cells, divide them with **vertical bars**. Remember about the first and last cell.
+1. divide the text into particular title cells with **vertical bars** " | ". Remember to put such in front of the first cell and at the end of the last cell.
+2. in the next row underline each cel with a **minus** sign "-" and, as in case of title cells, divide them with **vertical bars**. Remember about the first and last cell.
 3. to create another row divide the text of particular cells with vertical bars as in case of title cells.
 
 ## Link to another file
 
-Put any normal text into a square brackets to change it into a hyperlink. Put the name of the file with *.md* extension in round brackets after the hyperlink.
+Put any normal text into square brackets to change it into a hyperlink. Put the name of the file with *.md* extension in round brackets after the hyperlink.
 
 ## Table of contents
 
-To create a table of contents you have to install the *Markdown All in One* extension. Open **Command Pallete** and choose *Markdown All in One: Create Table of Contents* to include all headers from your file. Remember that the Table of contents appears in the place of the *insertion point*. Go to Tips and Hints in [Markdown basics and installation guide](Markdown_basics_and_instalation_guide.md) for more information. 
+To create a table of contents you have to install the *Markdown All in One* extension. Open **Command Palette** and choose *Markdown All in One: Create Table of Contents* to include all headers from your file. Remember that the Table of contents appears in the place of the *insertion point*. Go to Tips and Hints in [Markdown basics and installation guide](Markdown_basics_and_instalation_guide.md) for more information. 
