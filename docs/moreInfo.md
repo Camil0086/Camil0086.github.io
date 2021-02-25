@@ -76,7 +76,7 @@ To make a numbered list begin with "1." in front of a text. To make another put 
 ## Table
 
 To create a table follow the below steps:
-1. divide the text into particular title cells with **vertical bars** [" | "]. ARemember to put such in front of the first cell and at the end of the last cell.
+1. divide the text into particular title cells with **vertical bars** "`|`". BRemember to put such in front of the first cell and at the end of the last cell.
 2. in the next row underline each cel with a **minus** sign "-" and, as in case of title cells, divide them with **vertical bars**. Remember about the first and last cell.
 3. to create another row divide the text of particular cells with vertical bars as in case of title cells.
 
