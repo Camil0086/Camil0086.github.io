@@ -16,7 +16,7 @@ To register on GitHub, please go to [GitHub homepage](https://github.com) and cl
 Visit [GitHub Desktop download link](https://desktop.github.com) and choose the proper OS System. Download and install GitHub Desktop. 
 
 ## GitHub first steps
-After GitHub Desktop installation, open the client and follow the below steps:
+After GitHub Desktop installation, open the client and follow the steps below:
 1. After the first run please click **Authorize desktop** to authorize GitHub Desktop 
 2. Choose **Create a New Repository on your hard drive...** on start-up page or **File => New repository** in the top menu.
 3. Type the **Name** and **Description**
@@ -28,7 +28,7 @@ After GitHub Desktop installation, open the client and follow the below steps:
 You have created your first repository. Choose **Repository => Show in Explorer** in the top menu to view your repository. You can also find it on your hard drive by the path you have chosen. 
 
 ## How to Publish your repository to GitHub?
-After creating a repository click **Publish repository** on GitHub Desktop main page and follow the below steps:
+After creating a repository click **Publish repository** on GitHub Desktop main page and follow the steps below:
 1. In the pop-up window, mark **keep this code private** if you wish to publish your repository only to those GitHub users you invite.
 2. Leave **Organization** as it is.
 3. Click **Publish repository**.
@@ -36,7 +36,7 @@ After creating a repository click **Publish repository** on GitHub Desktop main 
 You have published your first repository to GitHub. Please go to [GitHub homepage](https://github.com) and click your account icon in the top right corner. Choose **Your repositories** from the dropdown menu to find your repository. 
 
 ## How to update your repository and add new files or changes to it  
-To add new files to your repository please open your local path repository destination folder and follow the below steps:
+To add new files to your repository please open your local path repository destination folder and follow the steps below:
 
 1. Paste to your destination folder all new files you want to add to GitHub. You can do it with each file separately or by the entire folder. 
 For the purpose of this exercise please add all your files concerning Markdown basics together with all pictures and additional files necessary.
@@ -61,5 +61,5 @@ To grant access to your repository please choose **Settings => Manage Access => 
 | Trouble | Solution|
 | ------- | ------- |
 | GitHub doesn't want to verify my email address | click your account icon in the top right corner and choose **settings**. In the left sidebar choose **E-mails**  and resend the verification e-mail. If you see the note **Could not send e-mail verification**, please scroll down the page and unmark **keep your email address private** |
-| VSCode shows a note *Git not found. Install it or configure it using the 'git.path' settings* | for the purpose of this exercise don't install Git extensions in VSCode. |
-| How to change a local path of your repository | 1. Create a new local path for your repository. 2. close GitHub Desktop and VSCode, and delete the old local path together with all files in it. 3. Open GitHub Desktop and Choose **Clone a repository from the Internet...** on start-up page or **File => Clone repository** in the top menu. 4. Choose your repository from the list. 5. Choose the new local path 6. Click **Clone**
+| VSCode shows a note *Git not found. Install it or configure it using the 'git.path' settings* | for the purpose of this exercise you don't need to install Git extensions in VSCode if you are using GitHub Desktop. |
+| How to change a local path of your repository | 1. Push all the latest local changes to GitHub. 2. Create a new local path for your repository. 3. close GitHub Desktop and VSCode, and delete the old local path together with all files in it. 4. Open GitHub Desktop and Choose **Clone a repository from the Internet...** on start-up page or **File => Clone repository** in the top menu. 5. Choose your repository from the list. 6. Choose the new local path 7. Click **Clone**

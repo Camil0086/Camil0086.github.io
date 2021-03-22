@@ -26,7 +26,7 @@ To the Moon.
 
 * New line and paragraph examples [Additional content](moreInfo.md)  
   
-Happy sounds of nearby funfair mixed with crickets and owl hoots spread through the clear sky night.  
+Happy sounds of nearby funfair mixed with crickets and owl hoots spread through the clear night sky.  
 "... I always thought they were lighthouses..." - said River to Johnny
 
 "...Billions of lighthouses, stuck and the far end of the sky" - she added after a while.
@@ -127,7 +127,7 @@ z=x+y;
 
 | Tips and Hints | Installation guide and additional content |
 | -------------- | ------------------------------- |
-| Install **Markdown All in One** extension to enable new possibilities and make your work easier. | Click the **Extensions** icon ![extensions icon](./images/extensionsIco.png) in the left sidebar or type Ctrl + Shift + X to show Extensions. => Type Markdown All in One in the search bar. => Click install icon ![install icon](./images/installIco.png) to run the installation. |
+| Install **Markdown All in One** extension to enable new possibilities and make your work easier. | Click the **Extensions** icon ![extensions icon](./images/extensionsIco.png) in the left sidebar or type Ctrl + Shift + X to show Extensions. => Type Markdown All in One in the search bar. => Click the install icon ![install icon](./images/installIco.png) to run the installation. |
 | Format document. | After installation of the Markdown All in One extension, you can **Right Click => Format Document** or Shift + Alt + F to format the code, like organize columns and sort the table. |
 | Use shortcuts | Although you can find most of the functions in menus and bars, shortcuts will make your work much easier. Type Ctrl + Shift + P to open **Command Pallete**. Type Ctrl + Space to open the suggestions menu. To see more shortcuts go to **File => Preferences => Keyboard Shortcuts** or choose Ctrl + K Ctrl + S. |
 | Change words suggestions into a code suggestions. | Open **Command Pallete => Preferences: Configure Language Specific Settings => Markdown => "editor.suggest.showWords": false** |
