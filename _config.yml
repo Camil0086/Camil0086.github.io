@@ -1,4 +1,4 @@
-name: Komunikacja Techniczna Akademia Finansów i Biznesu Vistula
+name: Komunikacja Techniczna, Akademia Finansów i Biznesu Vistula
 title: User Guide
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: Camil0086/just-the-docs
@@ -14,5 +14,5 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content was created by Kamil Nowak and based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>". Contact me at kamil.nowak0086@gmail.com or <a href=\"https://https://www.linkedin.com/in/kamil-nowak-7bb6351b7\">Linkedin.</a> 
+footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content was created by Kamil Nowak and based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>. Contact me at kamil.nowak0086@gmail.com or <a href=\"https://https://www.linkedin.com/in/kamil-nowak-7bb6351b7\">Linkedin.</a>". 
 
