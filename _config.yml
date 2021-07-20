@@ -14,5 +14,6 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content was created by Kamil Nowak and based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>. Contact me at kamil.nowak0086@gmail.com or <a href=\"https://https://www.linkedin.com/in/kamil-nowak-7bb6351b7\">Linkedin.</a>. 
+footer_content: This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content was created by Kamil Nowak and based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>.  
+Contact me at kamil.nowak0086@gmail.com or <a href=\"https://https://www.linkedin.com/in/kamil-nowak-7bb6351b7\">Linkedin.</a>. 
 
