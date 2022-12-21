@@ -6,20 +6,13 @@ description: "Kamil's first user manual"
 permalink: /
 ---
 
-# Introduction
+# Welcome!
 
-On this site, you'll find a simple manual of how to install and configure Visual Studio Code and GitHub Desktop.
+This is a simple static site where you can find my portfolio related to two IT areas that I am most interested in.
 
-If you miss one or more classes don't worry. Here you'll find all the necessary information to catch up. On the left sidebar you'll find online help from which you can learn:
-* basic syntax of Markdown
-* how to publish your first repository to GitHub and introduce changes to it
-* how to download up-to-date files from GitHub
-* how to invite a collaborator to your repository
+* Software Testing - here you would find my latest commercial and noncommercial QA projects and reports
+* Technical Communication - as above, please feel free to check also my blog and guides I have created as a technical writer
 
-You can also count on a few tips and hints for VSCode and solutions to typical problems during GitHub configuration.
-
-In case of any more information necessary below you'll find documentation for:
-* [Visual Studio Code](https://code.visualstudio.com/docs)
-* [Markdown](https://www.markdownguide.org/basic-syntax/)
-* [GitHub Desktop](https://docs.github.com/en/desktop)
-* [GitHub](https://docs.github.com/en)
+In case of any more information necessary below you'll find my contact details. Feel free to call or text me any time:
+* phone: +48 692 150 637
+* e-mail: kamil.nowak.0086@gmail.com
