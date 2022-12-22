@@ -45,7 +45,7 @@ You never block someone in the middle of *kamehameha*.
 
 * Image example [Additional content](moreInfo.md)
 
-![Text to be displayed in case the image is not found](./images/ToTheMoon.jpg "Hover text")
+![Text to be displayed in case the image is not found](../images/ToTheMoon.jpg "Hover text")
 
 ![Text to be displayed in case the image is not found](https://images2.imgbox.com/c1/b2/72KNdkFc_o.jpg "Hover text")
 
@@ -127,7 +127,7 @@ z=x+y;
 
 | Tips and Hints | Installation guide and additional content |
 | -------------- | ------------------------------- |
-| Install **Markdown All in One** extension to enable new possibilities and make your work easier. | Click the **Extensions** icon ![extensions icon](./images/extensionsIco.png) in the left sidebar or type Ctrl + Shift + X to show Extensions. => Type Markdown All in One in the search bar. => Click the install icon ![install icon](./images/installIco.png) to run the installation. |
+| Install **Markdown All in One** extension to enable new possibilities and make your work easier. | Click the **Extensions** icon ![extensions icon](../images/extensionsIco.png) in the left sidebar or type Ctrl + Shift + X to show Extensions. => Type Markdown All in One in the search bar. => Click the install icon ![install icon](../images/installIco.png) to run the installation. |
 | Format document. | After installation of the Markdown All in One extension, you can **Right Click => Format Document** or Shift + Alt + F to format the code, like organize columns and sort the table. |
 | Use shortcuts | Although you can find most of the functions in menus and bars, shortcuts will make your work much easier. Type Ctrl + Shift + P to open **Command Pallete**. Type Ctrl + Space to open the suggestions menu. To see more shortcuts go to **File => Preferences => Keyboard Shortcuts** or choose Ctrl + K Ctrl + S. |
 | Change words suggestions into a code suggestions. | Open **Command Pallete => Preferences: Configure Language Specific Settings => Markdown => "editor.suggest.showWords": false** |
