@@ -5,6 +5,9 @@ nav_order: 1
 description: "Kamil's first user manual"
 permalink: /
 ---
+<div align="right">
+    <img src="./docs/images/KamilNowakCV3.jpg" width="150" height="182">
+</div>
 
 # Welcome!
 
