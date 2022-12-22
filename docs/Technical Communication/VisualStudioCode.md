@@ -2,7 +2,7 @@
 layout: default
 title: Visual Studio Code
 parent: Technical Communication
-nav_order: 5
+nav_order: 4
 ---
 
 VSCode Installation guide and first run 

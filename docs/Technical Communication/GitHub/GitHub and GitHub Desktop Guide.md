@@ -2,6 +2,7 @@
 layout: default
 title: GitHub and GitHub Desktop Guide
 parent: GitHub
+grand_parent: Technical Communication
 nav_order: 2
 ---
 

@@ -3,7 +3,6 @@ layout: default
 title: Software Testing
 nav_order: 2
 description: "Kamil's QA projects"
-permalink: /
 ---
 
 # Introduction

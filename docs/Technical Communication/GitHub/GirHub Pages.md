@@ -2,6 +2,7 @@
 layout: default
 title: GitHub Pages
 parent: GitHub
+grand_parent: Technical Communication
 nav_order: 3
 ---
 
