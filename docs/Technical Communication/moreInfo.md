@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Additional content
-nav_order: 5
+parent: Technical Communication
+nav_order: 6
 ---
 
 Additional content

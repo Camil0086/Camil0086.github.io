@@ -1,7 +1,8 @@
 ---
 layout: default
 title: GitHub
-nav_order: 4
+parent: Technical Communication
+nav_order: 1
 has_children: true
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Markdown
-nav_order: 2
+parent: Technical Communication
+nav_order: 4
 ---
 
 Markdown basics

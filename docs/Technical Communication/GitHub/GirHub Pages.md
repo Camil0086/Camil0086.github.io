@@ -2,7 +2,7 @@
 layout: default
 title: GitHub Pages
 parent: GitHub
-nav_order: 2
+nav_order: 3
 ---
 
 GitHub Pages
