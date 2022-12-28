@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Welcome Page
 nav_order: 1
 description: "Kamil's first user manual"
 permalink: /
