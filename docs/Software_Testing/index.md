@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Software Testing
-nav_order: 1
+nav_order: 2
 description: "Kamil's QA projects"
 has_children: true
 ---

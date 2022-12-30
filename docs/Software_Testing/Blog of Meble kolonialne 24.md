@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Blog
+title: Blog of Meble kolonialne 24
 parent: Software Testing
-nav_order: 2
+nav_order: 3
 ---
 Meble kolonialne 24 Blog
 ==================

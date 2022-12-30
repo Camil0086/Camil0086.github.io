@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical Communication
-nav_order: 2
+nav_order: 3
 description: "Kamil's blog and a first user manual"
 has_children: true
 ---

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: QA report
+title: QA report for Meble kolonialne 24
 parent: Software Testing
-nav_order: 3
+nav_order: 4
 ---
 
 A report for Meble kolonialne 24
 ==================
 
-This report was a commercial project prepared for the company.
+This report was a commercial project individually prepared for the company.
 
 It involved functional and nonfunctional testing including:
 * Nielsen usibility heuristics
