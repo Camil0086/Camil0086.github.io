@@ -18,4 +18,4 @@ It involved functional and nonfunctional testing including:
 
 Below I give you a direct link to the report prepared in Excel sheet: 
 
-[Meble kolonialne 24 QA report](../images/report.xlsx)
+[Meble kolonialne 24 QA report](../files/report.xlsx)

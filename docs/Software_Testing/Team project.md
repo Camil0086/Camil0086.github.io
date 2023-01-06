@@ -16,6 +16,7 @@ It was run by a team of six people including me. I was a team leader and a teste
 
 The purpose of this project was to prepare a sample of our team capabilities and deliver it to stakeholders. Tests were performed on [Kraków Department of Municipal Waste Management [MPO]](https://mpo.krakow.pl/pl/main) sites.
 Report and results can be found below:
-* test plan
-* detailed report
-* bugs
+* [test plan](../files/Plan testów MPO v 2,2.docx)
+* Ewidencja sesji eksploracyjnych
+* [detailed report](../files/Testowanie strony MPO RAPORT KOŃCOWY.docx)
+* [bugs](../files/screeny błędów oraz załączniki.rar)
