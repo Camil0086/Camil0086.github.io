@@ -2,12 +2,12 @@
 layout: default
 title: Blog of Meble kolonialne 24
 parent: Software Testing
-nav_order: 3
+nav_order: 1
 ---
 Meble kolonialne 24 Blog
 ==================
 
-This blog has been prepared partially as a commercial job and in second as a graduate project on my postgraduated studies at Vistula Uniwersity.
+This blog has been prepared partially as a commercial job, and in second, as part of the reference materials for the Technical Communication postgraduated studies at Vistula University (Warsaw).
 
 It was set up in DITA via Oxygen XML Editor. Below I give you the direct link to the blog:
 
