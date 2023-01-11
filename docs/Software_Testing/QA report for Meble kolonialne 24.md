@@ -18,5 +18,5 @@ It involved functional and nonfunctional testing, including:
 
 Below I give you a direct link to the report prepared in Excel sheet: 
 
-* [Meble kolonialne 24 QA report](../files/report.xlsx)
+* [Meble kolonialne 24 QA report](../files/raport_MK24.xlsx)
 * [screenshots for the report](../files/zrzuty_ekranu_do_raportu.rar)
