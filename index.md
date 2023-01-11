@@ -19,3 +19,4 @@ This is a simple static site where you can find my portfolio related to two IT a
 In case of any more information necessary, below you'll find my contact details. Feel free to call or text me any time:
 * phone: +48 692 150 637
 * e-mail: kamil.nowak.0086@gmail.com
+* [Linkedin](https://www.linkedin.com/in/kamil-nowak-7bb6351b7/)

@@ -14,4 +14,4 @@ On this site, you'll find my commercial and noncommercial projects related to so
 * a QA report created for Meble kolonialne 24 - Another commercial project commissioned by the company and created as part of the reference materials for the Software Testing course at Jagiellonian University (Kraków) in which I have used exploratory technics to search and define functional and visual flaws of the e-shop   
 * also, as a noncommercial project, I give you a report created together with my team at the university in which I was a project manager and a tester
 
-In case of any doubts or questions, please feel free to call or text me whenever you like. My contact details can be found on the welcome page.
+In case of any doubts or questions, please feel free to call or text me whenever you like. My contact details can be found on the [welcome page](index.md).
