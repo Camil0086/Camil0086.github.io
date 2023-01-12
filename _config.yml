@@ -1,6 +1,6 @@
-name: Komunikacja Techniczna, Akademia Finansow i Biznesu Vistula
-title: User Guide
-description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
+name: Kamil's portfolio
+title: portfolio
+description: Personal portfolio hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: Camil0086/just-the-docs
 
 color_scheme: dark
