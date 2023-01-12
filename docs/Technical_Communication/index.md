@@ -21,7 +21,3 @@ On the left sidebar, you'll find both of the above and also, related to the latt
 You can also count on a few tips and hints for VSCode and solutions to typical problems during GitHub configuration.
 
 In case of any more information necessary, below you'll find documentation for:
-* [Visual Studio Code](https://code.visualstudio.com/docs)
-* [Markdown](https://www.markdownguide.org/basic-syntax/)
-* [GitHub Desktop](https://docs.github.com/en/desktop)
-* [GitHub](https://docs.github.com/en)
