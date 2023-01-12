@@ -14,4 +14,4 @@ It was set up in DITA via Oxygen XML Editor. Below I give you the direct link to
 [Blog Meble kolonialne 24 ](https://camil0086.github.io/DITA_MK24_0086/)
 
 
-![Blog Meble kolonialne24 screenshot](../images/blog.jpeg "Blog Meble kolonialne 24 Home page")
+![Blog Meble kolonialne24 screenshot](../images/plusIco.png "Blog Meble kolonialne 24 Home page")

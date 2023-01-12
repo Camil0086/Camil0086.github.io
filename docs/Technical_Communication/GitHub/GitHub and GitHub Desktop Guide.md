@@ -42,7 +42,7 @@ To add new files to your repository please open your local path repository desti
 1. Paste to your destination folder all new files you want to add to GitHub. You can do it with each file separately or by the entire folder. 
 For the purpose of this exercise please add all your files concerning Markdown basics together with all pictures and additional files necessary.
 2. Go to GitHub Desktop and choose **Changes** on the left sidebar to view all changes made in your local copy of the repository. Please remember that these changes are not yet confirmed and add to your local repository.
-3. Please fill the field **Summary (required)** with something that describes the changes you have made and click **Commit to main** to confirmed those changes to your local repository. Please remember that those changes are not yet published to GitHub.
+3. Please fill the field **Summary (required)** with something that describes the changes you have made and click **Commit to main** to confirm those changes to your local repository. Please remember that those changes are not yet published to GitHub.
 
 To publish your local changes to GitHub repository please click **Push origin** on GitHub Desktop main window or choose **Repository => Push** on the top menu.
 
