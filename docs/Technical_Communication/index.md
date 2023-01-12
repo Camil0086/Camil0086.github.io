@@ -8,7 +8,7 @@ has_children: true
 
 # Introduction
 
-On this site, you'll find my blog about wood and furniture, both a commercial project created for Meble kolonialne 24 and a graduate project on my studies at the university.
+1On this site, you'll find my blog about wood and furniture, both a commercial project created for Meble kolonialne 24 and a graduate project on my studies at the university.
 
 Together with the blog, I give you a simple noncommercial manual, also created at the university, of how to install and configure Visual Studio Code and GitHub Desktop.
 
