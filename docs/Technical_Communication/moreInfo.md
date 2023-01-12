@@ -87,4 +87,4 @@ Put any normal text into square brackets to change it into a hyperlink. Put the 
 
 ## Table of contents
 
-To create a table of contents you have to install the *Markdown All in One* extension. Open **Command Palette** and choose *Markdown All in One: Create Table of Contents* to include all headers from your file. Remember that the Table of contents appears in the place of the *insertion point*. Go to Tips and Hints in [Markdown basics and installation guide](Markdown_basics_and_instalation_guide.md) for more information. 
+To create a table of contents you have to install the *Markdown All in One* extension. Open **Command Palette** and choose *Markdown All in One: Create Table of Contents* to include all headers from your file. Remember that the Table of contents appears in the place of the *insertion point*. Go to Tips and Hints in [Markdown guide](Markdown.md) for more information. 

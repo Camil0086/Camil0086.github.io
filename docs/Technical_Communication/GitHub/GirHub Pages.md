@@ -11,14 +11,14 @@ GitHub Pages
 
 ## How to create a public repository on GitHub Pages
 Please go to [GitHub homepage](https://github.com) and click your account icon in the top right corner. Choose **Your repositories** and follow the steps below:
-1. Click the new repository icon ![New Repository icon](../../../../../Camil0086.github.io/docs/images/newIco.png) to create a new repository.
+1. Click the new repository icon ![New Repository icon](../../images/newIco.png) to create a new repository.
 2. GitHub Pages can be published from a public repository with special name. Type the name of your repository exactly like *<span>yourAccountName.github.io</span>*. For Example, if your account name is *JaneDoe86*, your repository name will look like *<span>JaneDoe86.github.io</span>*.
 3. Fill the **Description** (optional). 
 4. Change the type of your repository to **Public**.
 5. For the purpose of this exercise please leave **Add a README file, Add .gitignore, and Choose a license** unmarked.
 6. Click **Create repository**.
 
-After creating a repository please click the Set up in Desktop icon ![Set up in Desktop icon](../../../../../Camil0086.github.io/docs/images/setupIco.png) to work on it locally. GitHub Desktop will open with a pop-up window where you can choose a local path of your repository. Please leave the URL address as it is and click **Clone**.
+After creating a repository please click the Set up in Desktop icon ![Set up in Desktop icon](../../images/setupIco.png) to work on it locally. GitHub Desktop will open with a pop-up window where you can choose a local path of your repository. Please leave the URL address as it is and click **Clone**.
 
 ## How to publish your documentation on GitHub Pages repository
 When your public repository is ready please open GitHub Desktop and follow the steps below:

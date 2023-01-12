@@ -52,7 +52,7 @@ You can create or upload a new file to your repository directly from your browse
 
 ## How to Pull up-to-date file from GitHub
 To download any changes of GitHub repository made by your coworkers or any other users who have access to it, choose in GitHub Desktop **Repository => Pull** on the top menu or click **Fetch origin** under the top menu and then click **Pull origin** on the main window. It is good practice to begin your work with **Pull/Fetch origin**.  
-Choose **History** on the left sidebar to view all changes download to your local repository. In the middle section, all files added are marked by a green plus icon ![Green plus icon](../../../../../Camil0086.github.io/docs/images/plusIco.png). All files changed are marked by a yellow dot icon ![Yellow dot icon](../../../../../Camil0086.github.io/docs/images/changesIco.png). In the right section, a color indicates changes. Green if something was added or red if removed.
+Choose **History** on the left sidebar to view all changes download to your local repository. In the middle section, all files added are marked by a green plus icon ![Green plus icon](../../images/plusIco.png). All files changed are marked by a yellow dot icon ![Yellow dot icon](../../images/changesIco.png). In the right section, a color indicates changes. Green if something was added or red if removed.
 
 ## How to invite a collaborator to your repository
 To grant access to your repository please choose **Settings => Manage Access => Invite a collaborator.** Type the username, full name, or email and add a user to this repository. When you invite someone, you always grant access to the repository you are currently working on. The user will receive an email to confirm the invitation. 
