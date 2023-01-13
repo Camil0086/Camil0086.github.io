@@ -72,7 +72,7 @@ Put an **asterisk** sign " * " in front of a text to create a bullet list. To ma
 
 ## Numbered list
 
-To make a numbered list begin with "1." in front of a text. To make another put "2.", "3.", etc. Do not forget about the space after a dot. Without it, the text remains a normal text, although it looks like a point of the list. 
+To make a numbered list begin with " 1. " in front of a text. To make another put " 2. ", " 3. ", etc. Do not forget about the space after a dot. Without it, the text remains a normal text, although it looks like a point of the list. 
 
 ## Table
 
